@@ -47,6 +47,7 @@ Atualmente aprendendo **HTML, CSS, Python, Flask, React, JavaScript, MySql, PHP,
 ![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/PacketTracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 
 ---
