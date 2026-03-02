@@ -17,7 +17,7 @@ Currently learning **HTML, CSS, Python, Flask, React, JavaScript, MySql, PHP, Wa
 <td valign="top" width="50%">
 
 ### 🇧🇷 Olá  
-**Desenvolvedor Web Front-End**  
+**Desenvolvedor Web Back-end**  
 Sou estudante de Desenvolvimento de Sistemas e apaixonado por criar interfaces limpas e funcionais.  
 Atualmente aprendendo **HTML, CSS, Python, Flask, React, JavaScript, MySql, PHP, WampServer e Xampp** para construir projetos modernos e responsivos.
 
