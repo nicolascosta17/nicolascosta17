@@ -71,18 +71,6 @@ Atualmente aprendendo **HTML, CSS, Python, Flask, React, JavaScript, MySql, PHP,
   </a>
 </p>
 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolascosta17&show_icons=true&theme=noctis_minimus" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolascosta17&layout=compact&langs_count=5&theme=noctis_minimus" height="150" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
